@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "generate": "^0.10.0",
+    "generate-data": "^0.1.8",
+    "generate-random-data": "^0.0.3",
+    "graphql": "^16.6.0",
+    "graphql-client": "^2.0.1",
+    "graphql-request": "^5.1.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.3.0",
+    "cypress-utils": "^3.0.0"
+  }
+}
